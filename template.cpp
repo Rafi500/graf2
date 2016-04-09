@@ -1,4 +1,4 @@
-//PROBA=============================================================================================
+//=============================================================================================
 // Szamitogepes grafika hazi feladat keret. Ervenyes 2016-tol.
 // A //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // sorokon beluli reszben celszeru garazdalkodni, mert a tobbit ugyis toroljuk.
